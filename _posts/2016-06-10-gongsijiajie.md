@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 公司简介
 ---
 # 江苏南京瑞泽康科技公司
